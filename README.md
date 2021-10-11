@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, my name is Andrew
+### I am currently studying at SDSU
+I am a computer engineering major at SDSU.
+
 
 <!--
 **ambirn/ambirn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
